@@ -1,0 +1,3268 @@
+<utf-8_data>
+  <kkbox_package>
+    <kkbox_ver>07000070</kkbox_ver>
+    <all_song />
+    <playlist>
+      <playlist_id>1</playlist_id>
+      <playlist_name>粵語歌曲</playlist_name>
+      <playlist_descr />
+      <playlist_data>
+        <song_data>
+          <song_name>飲歌</song_name>
+          <song_artist>Twins</song_artist>
+          <song_album>我們相愛6年 - 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1440615</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>9472</song_artist_id>
+          <song_album_id>91320</song_album_id>
+          <song_song_idx>27</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>二等天使</song_name>
+          <song_artist>劉浩龍 (Wilfred Lau)</song_artist>
+          <song_album>All the Best</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1984026</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12637</song_artist_id>
+          <song_album_id>137455</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>公主病了</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>時代</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2153837</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>145351</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>甜蜜蜜</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732019</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>無人之境 - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811252</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛與誠 - Live</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>大雄</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1522834</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>96898</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>歡樂今宵</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>最多古巨基精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1994046</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>138259</song_album_id>
+          <song_song_idx>17</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>但願人長久</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969738</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>相愛很難(電影"男人四十"歌曲) - Album Version</song_name>
+          <song_artist>張學友 (Jacky Cheung), 梅艷芳 (Anita Mui)</song_artist>
+          <song_album>林夕字傳</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026657</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13430</song_artist_id>
+          <song_album_id>57520</song_album_id>
+          <song_song_idx>18</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>其實我…我…我</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732909</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>46</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我這麼容易愛人 - Album Version</song_name>
+          <song_artist>黃耀明</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722753</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>22</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>歡樂今宵</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732904</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>38</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>對你太在乎</song_name>
+          <song_artist>陳慧琳 (Kelly Chen)</song_artist>
+          <song_album>Especial Kelly - 新歌+精選(3CD)</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1359347</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>133</song_artist_id>
+          <song_album_id>84849</song_album_id>
+          <song_song_idx>11</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>野孩子 - Album Version</song_name>
+          <song_artist>楊千嬅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722752</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>21</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>護衛 - Album Version</song_name>
+          <song_artist>余文樂</song_artist>
+          <song_album>THE SURVIVOR</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>997367</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12614</song_artist_id>
+          <song_album_id>55469</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>無心快意</song_name>
+          <song_artist>劉德華 (Andy Lau)</song_artist>
+          <song_album>無心快意</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2456179</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>154</song_artist_id>
+          <song_album_id>186466</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>DEADLINE - Album Version</song_name>
+          <song_artist>張敬軒</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811251</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>天黑黑</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969740</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>天下無雙</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969744</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>水月鏡花</song_name>
+          <song_artist>楊千嬅</song_artist>
+          <song_album>Unlimited</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1346759</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>253</song_artist_id>
+          <song_album_id>83770</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>垃圾</song_name>
+          <song_artist>盧巧音 (Candy Lo)</song_artist>
+          <song_album>不能不愛</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1986243</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1836</song_artist_id>
+          <song_album_id>137624</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>頭條新聞</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596749</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>31</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛得太遲 - Live</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>我生</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1304120</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>80365</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>皇后</song_name>
+          <song_artist>方力申</song_artist>
+          <song_album>在你遙遠的附近</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1356749</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12617</song_artist_id>
+          <song_album_id>84600</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>重新做人</song_name>
+          <song_artist>梁漢文 (Edmond Leung)</song_artist>
+          <song_album>Music Is The Answer</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1987733</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>8198</song_artist_id>
+          <song_album_id>137721</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>一句到尾</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3830889</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>30</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>報告總司令</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3830814</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>必殺技</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>金牌精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1980044</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>137078</song_album_id>
+          <song_song_idx>15</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>這分鐘更愛你</song_name>
+          <song_artist>容祖兒 (Joey Yung)</song_artist>
+          <song_album>容祖兒 精選 - HQCDII</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>15617924</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>5303</song_artist_id>
+          <song_album_id>1471802</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>如何可以不愛她 (許志安)</song_name>
+          <song_artist>鄭秀文&amp;許志安 (Sammi Cheng &amp; Andy Hui)</song_artist>
+          <song_album>願天下有情人</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2049108</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>48640</song_artist_id>
+          <song_album_id>142761</song_album_id>
+          <song_song_idx>25</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>今天只做一件事 - Album Version</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>H3M</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1864531</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>5301</song_artist_id>
+          <song_album_id>126572</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>無限 - Manazashi 廣東話版</song_name>
+          <song_artist>陳柏宇 (Jason Chan), 林奕匡 (Phil Lam)</song_artist>
+          <song_album>五年新曲加精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3440637</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>32225</song_artist_id>
+          <song_album_id>293598</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>好人(Original)</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596677</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>小城大事</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969748</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>12</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛如潮水</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969752</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>16</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>笑中有淚 - Album Version</song_name>
+          <song_artist>楊千嬅 (Miriam Yeung)</song_artist>
+          <song_album>千嬅盛放 - Digtial Only</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2008377</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>253</song_artist_id>
+          <song_album_id>139552</song_album_id>
+          <song_song_idx>12</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>月亮說</song_name>
+          <song_artist>王菀之</song_artist>
+          <song_album>On Wings Of Time</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1978199</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12716</song_artist_id>
+          <song_album_id>136906</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>最佳位置 - Album Version</song_name>
+          <song_artist>陳慧琳</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722749</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>18</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>美中不足 - Album Version</song_name>
+          <song_artist>Zhi An Xu, 葉德嫻</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722745</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>14</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>艷光四射</song_name>
+          <song_artist>何韻詩 (HOCC)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715503</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>16</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>年年有今日 (feat. Beatbox &amp; 金牌一條順) - Live</song_name>
+          <song_artist>古巨基, Beatbox, 金牌一條順</song_artist>
+          <song_album>勁歌金曲2 情歌王 - Live</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>4828494</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>428661</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>初初</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>告別我的戀人們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>5</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>4720015</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>348755</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>眼淚</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969739</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>酷愛 - Album Version</song_name>
+          <song_artist>張敬軒 (Hins Cheung)</song_artist>
+          <song_album>My 1st Collection - Digital Only (2 CD)</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1587132</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>439</song_artist_id>
+          <song_album_id>102455</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>如何掉眼淚</song_name>
+          <song_artist>鄭秀文 (Sammi Cheng)</song_artist>
+          <song_album>完全擁有</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1267921</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>322</song_artist_id>
+          <song_album_id>77303</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>傷追人</song_name>
+          <song_artist>Justin</song_artist>
+          <song_album>Justin One Good Show Concert</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1300583</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>80091</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>金</song_name>
+          <song_artist>周柏豪</song_artist>
+          <song_album>Get Well Soon</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3703480</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>46509</song_artist_id>
+          <song_album_id>306679</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>等</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969754</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>18</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>終生學習</song_name>
+          <song_artist>鄭融 (Stephanie Cheng)</song_artist>
+          <song_album>成人對待</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>995961</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12618</song_artist_id>
+          <song_album_id>55390</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>再見穿梭機 - Album Version</song_name>
+          <song_artist>李克勤</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722734</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我的歌</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732908</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>45</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>十面埋伏</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715514</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>27</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Loving You</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596740</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>28</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Volar</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596728</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>24</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>走音</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596695</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>13</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>時代</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>時代</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2165402</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>145351</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>小黑與我</song_name>
+          <song_artist>王菀之 (Ivana Wong)</song_artist>
+          <song_album>Infinity Journey</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1964939</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12716</song_artist_id>
+          <song_album_id>135718</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>I Don't Wanna Be Lonely</song_name>
+          <song_artist>連詩雅 (Shiga Lin)</song_artist>
+          <song_album>Moment</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2220851</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>51697</song_artist_id>
+          <song_album_id>149359</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>遲鈍</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596713</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>19</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>嘻哈</song_name>
+          <song_artist>軟硬天師 (Softhard)</song_artist>
+          <song_album>嘻哈</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>23505119</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>3159</song_artist_id>
+          <song_album_id>2217365</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>十分. 愛 - 合唱版</song_name>
+          <song_artist>方力申, 鄧麗欣</song_artist>
+          <song_album>Fantasy</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1560922</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>23233</song_artist_id>
+          <song_album_id>100147</song_album_id>
+          <song_song_idx>12</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>帝國大廈</song_name>
+          <song_artist>Swing</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715523</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>36</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>唯一的你</song_name>
+          <song_artist>HotCha</song_artist>
+          <song_album>唯一的你</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1995216</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>45823</song_artist_id>
+          <song_album_id>138377</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>座右銘</song_name>
+          <song_artist>吳雨霏 (Kary Ng)</song_artist>
+          <song_album>Kary 18 Cut 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1953180</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>21426</song_artist_id>
+          <song_album_id>134753</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛的故事上集</song_name>
+          <song_artist>李逸朗 &amp; 蔣雅文 (Don Li +Mandy Chiang)</song_artist>
+          <song_album>冬之戀人</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1441447</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>25566</song_artist_id>
+          <song_album_id>91380</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>男人信什麼 (衛蘭+JW)</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Love Diaries</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2233757</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>158112</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>不可一世</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Wish - 2010 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2062569</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>143994</song_album_id>
+          <song_song_idx>35</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>低科技之歌</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3832383</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>會過去的[合唱] - Album Version</song_name>
+          <song_artist>許志安, Wan Wan Che</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811261</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>11</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>眼睛想旅行 - Album Version</song_name>
+          <song_artist>黎明</song_artist>
+          <song_album>眼睛想旅行</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>866091</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>40</song_artist_id>
+          <song_album_id>10047</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>任天堂流淚 - Live</song_name>
+          <song_artist>古巨基</song_artist>
+          <song_album>勁歌金曲2 情歌王 - Live</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>4828542</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>428661</song_album_id>
+          <song_song_idx>21</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>明天我要嫁給妳</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969745</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>大哥</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Wish - 2010 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2062557</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>143994</song_album_id>
+          <song_song_idx>23</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>一千次日落 (許志安)</song_name>
+          <song_artist>鄭秀文&amp;許志安 (Sammi Cheng &amp; Andy Hui)</song_artist>
+          <song_album>願天下有情人</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2049091</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>48640</song_artist_id>
+          <song_album_id>142761</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>為你鍾情 (衛蘭+李治廷)</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Love Diaries</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2201733</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>158112</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>最佳損友 - Single Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722742</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>11</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>戀上外星人</song_name>
+          <song_artist>張智霖 (Chilam Cheung)</song_artist>
+          <song_album>ChiLam What is Love 2011</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2416147</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>3354</song_artist_id>
+          <song_album_id>166088</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>三十日</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596731</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>25</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>祝君好</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596704</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>16</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>獨男</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>時代</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2081614</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>145351</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>末日</song_name>
+          <song_artist>王菀之 (Ivana Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715490</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>年度之歌 - Album Version</song_name>
+          <song_artist>謝安琪</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811253</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>第二最愛 - Live</song_name>
+          <song_artist>古巨基</song_artist>
+          <song_album>勁歌 金曲演唱會 - Live</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1559385</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>100023</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>取消資格 - Album Version</song_name>
+          <song_artist>彭羚</song_artist>
+          <song_album>給我唱過的男孩們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026380</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1872</song_artist_id>
+          <song_album_id>57500</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>其實你心裡有沒有我 - (鄭秀文/許志安)</song_name>
+          <song_artist>許志安 (Andy Hui)</song_artist>
+          <song_album>自導/自傳 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1967348</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>117</song_artist_id>
+          <song_album_id>135891</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>落花流水 - Single Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722741</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>10</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Erica</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596689</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>11</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>非走不可 - Album Version</song_name>
+          <song_artist>彭羚</song_artist>
+          <song_album>給我唱過的男孩們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026381</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1872</song_artist_id>
+          <song_album_id>57500</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>奇洛李維斯回信</song_name>
+          <song_artist>薛凱琪 (Fiona Sit)</song_artist>
+          <song_album>F</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1277532</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>20323</song_artist_id>
+          <song_album_id>78111</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>無賴</song_name>
+          <song_artist>鄭中基</song_artist>
+          <song_album>大男人情歌</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3751127</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>203453</song_artist_id>
+          <song_album_id>322429</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>心亂如麻</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Wish - 2010 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2062558</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>143994</song_album_id>
+          <song_song_idx>24</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>自然醒</song_name>
+          <song_artist>林宥嘉 (Yoga Lin)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3724977</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>一念 - &lt;鴻 門宴&gt;主題曲</song_name>
+          <song_artist>黎明 (Leon Lai)</song_artist>
+          <song_album>一念 - &lt;鴻 門宴&gt;主題曲</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3815172</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>40</song_artist_id>
+          <song_album_id>329380</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Kong</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596674</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>給我愛過的男孩們</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732902</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>34</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>親密關係</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732905</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>40</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>達明一派對</song_name>
+          <song_artist>達明一派 (Tat Ming Pair)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715500</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>13</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>別說話</song_name>
+          <song_artist>連詩雅 (Shiga Lin)</song_artist>
+          <song_album>別說話</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>9899916</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>51697</song_artist_id>
+          <song_album_id>895440</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>漩渦</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732901</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>31</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>16 號愛人</song_name>
+          <song_artist>容祖兒 (Joey Yung)</song_artist>
+          <song_album>容祖兒 精選 - HQCDII</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>15617918</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>5303</song_artist_id>
+          <song_album_id>1471802</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>約定</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969742</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>最好的</song_name>
+          <song_artist>王菀之 (Ivana Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715491</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>那誰 - 蘇永康</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715488</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>自身</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596743</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>29</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>地球很危險</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>You Talkin To Me?</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1983305</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>137400</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>親愛的瑪嘉烈</song_name>
+          <song_artist>黃耀明 (Anthony Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715496</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>傻癡癡 - Album Version</song_name>
+          <song_artist>黎明 (Leon Lai)</song_artist>
+          <song_album>愛得太傻 - 2CD+VCD 48首</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>999132</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>40</song_artist_id>
+          <song_album_id>55588</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>風從哪裡來(國) - 國語</song_name>
+          <song_artist>側田</song_artist>
+          <song_album>硬仗</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>8155675</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>503775</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>美麗之最</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596683</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>告別我的戀人們</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>告別我的戀人們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>4603982</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>348755</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>不老的傳說</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969757</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>21</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Unauthorized</song_name>
+          <song_artist>Unauthorized</song_artist>
+          <song_album>Unauthorized</song_album>
+          <song_genre>0</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1329912</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id />
+          <song_album_id />
+          <song_song_idx>0</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>還有一生的時間</song_name>
+          <song_artist>泳兒 (Vincy Chan)</song_artist>
+          <song_album>Vin's Selection 泳兒新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2296468</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>25563</song_artist_id>
+          <song_album_id>160603</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>戰友</song_name>
+          <song_artist>劉浩龍 (Wilfred Lau)</song_artist>
+          <song_album>All the Best</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1984028</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12637</song_artist_id>
+          <song_album_id>137455</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>某年仲夏</song_name>
+          <song_artist>梁詠琪</song_artist>
+          <song_album>愛自己</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>5918737</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>11</song_artist_id>
+          <song_album_id>519571</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>你給我力量</song_name>
+          <song_artist>江若琳 (Elanne Kwong)</song_artist>
+          <song_album>天空之樹</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>5091127</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>53185</song_artist_id>
+          <song_album_id>453130</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>離家出走</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Wish - 2010 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2062556</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>143994</song_album_id>
+          <song_song_idx>22</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我的秘密 (MySecret)</song_name>
+          <song_artist>G.E.M.鄧紫棋</song_artist>
+          <song_album>The Best Of G.E.M. 2008-2012 (Version 2)</song_album>
+          <song_genre>1</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>16670508</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>45702</song_artist_id>
+          <song_album_id>1557571</song_album_id>
+          <song_song_idx>19</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我不是好人</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596725</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>23</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>歡樂今宵 - Album Version</song_name>
+          <song_artist>彭羚</song_artist>
+          <song_album>給我唱過的男孩們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026386</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1872</song_artist_id>
+          <song_album_id>57500</song_album_id>
+          <song_song_idx>12</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>唯獨你是不可取替 (情人伴唱版)</song_name>
+          <song_artist>鄭秀文&amp;許志安 (Sammi Cheng &amp; Andy Hui)</song_artist>
+          <song_album>願天下有情人</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2049115</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>48640</song_artist_id>
+          <song_album_id>142761</song_album_id>
+          <song_song_idx>32</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>K歌之王 - Album Version</song_name>
+          <song_artist>彭羚</song_artist>
+          <song_album>給我唱過的男孩們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026376</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1872</song_artist_id>
+          <song_album_id>57500</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>人車誌 - Single Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722740</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>大開眼戒</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715518</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>31</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>心淡</song_name>
+          <song_artist>容祖兒 (Joey Yung)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715510</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>23</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>貝殼</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596716</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>20</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>漢城沉沒了</song_name>
+          <song_artist>周國賢 (Endy Chow)</song_artist>
+          <song_album>光</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1277656</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>20325</song_artist_id>
+          <song_album_id>78121</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>戀無可戀</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>告別我的戀人們</song_album>
+          <song_genre>5</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3976441</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>348755</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>普世歡騰</song_name>
+          <song_artist>李逸朗 &amp; 蔣雅文 (Don Li +Mandy Chiang)</song_artist>
+          <song_album>冬之戀人</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1441443</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>25566</song_artist_id>
+          <song_album_id>91380</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>沉默是金 - Album Version</song_name>
+          <song_artist>許冠傑</song_artist>
+          <song_album>BTB 金裝精選-許冠傑 - CD</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2107874</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10960</song_artist_id>
+          <song_album_id>147373</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛是最大權利</song_name>
+          <song_artist>鄭中基 (Ronald Cheng)</song_artist>
+          <song_album>Before After</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1448853</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>459</song_artist_id>
+          <song_album_id>91946</song_album_id>
+          <song_song_idx>9</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我不懂你</song_name>
+          <song_artist>鍾嘉欣 (Linda Chung)</song_artist>
+          <song_album>一人晚餐。二人世界</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1983524</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>46414</song_artist_id>
+          <song_album_id>137413</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>抗戰二十年</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3732021</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>17</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>那邊見 - Album Version</song_name>
+          <song_artist>Swing</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722732</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>CRYING IN THE PARTY - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811254</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛才</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Wish - 2010 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2062540</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>143994</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>光明會</song_name>
+          <song_artist>何韻詩 (HOCC)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715499</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>12</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>傾城</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3830357</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>40</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>化</song_name>
+          <song_artist>楊千嬅 (Miriam Yeung)</song_artist>
+          <song_album>Meridian</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2064872</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>253</song_artist_id>
+          <song_album_id>144175</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>逸後</song_name>
+          <song_artist>陳柏宇 (Jason Chan)</song_artist>
+          <song_album>Close Up</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1973859</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>32225</song_artist_id>
+          <song_album_id>136542</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>犯賤</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3736257</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>28</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>隆重登場</song_name>
+          <song_artist>容祖兒 (Joey Yung)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715521</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>34</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我的親愛 - Album Version</song_name>
+          <song_artist>黎明 (Leon Lai)</song_artist>
+          <song_album>More Than Classic - 3 CD</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1008358</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>40</song_artist_id>
+          <song_album_id>56174</song_album_id>
+          <song_song_idx>33</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>運</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596701</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>15</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Once Upon A Time</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>Amazing World</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3505075</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>295536</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>眼睛不能沒眼淚</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>金牌精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1980045</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>137078</song_album_id>
+          <song_song_idx>16</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>就算世界無童話</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Serving You</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2064949</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>144183</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>願我可以學會放低你</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3832384</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>11</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>兩心知 - Album Version</song_name>
+          <song_artist>黎明 (Leon Lai)</song_artist>
+          <song_album>復黑王-我的感覺</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1527505</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>40</song_artist_id>
+          <song_album_id>97345</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Saranghae</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596662</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>沒有腳的小鳥</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>You Talkin To Me?</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1983306</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>137400</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>昨遲人</song_name>
+          <song_artist>許志安 (Andy Hui)</song_artist>
+          <song_album>愛音樂三人行</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1242650</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>117</song_artist_id>
+          <song_album_id>75188</song_album_id>
+          <song_song_idx>30</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>失樂園</song_name>
+          <song_artist>草蜢 (Grasshopper)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3724985</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>49</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>星火</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596734</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>26</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>天光</song_name>
+          <song_artist>周柏豪</song_artist>
+          <song_album>Get Well Soon</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3598054</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>46509</song_artist_id>
+          <song_album_id>306679</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>因為愛所以愛</song_name>
+          <song_artist>謝霆鋒 (Nicholas Tse)</song_artist>
+          <song_album>瞭解</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>885334</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>2032</song_artist_id>
+          <song_album_id>24722</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>活著多好</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715520</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>33</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>裙下之臣 - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811256</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>無限大</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596671</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>好天氣</song_name>
+          <song_artist>林一峰 (Chet Lam)</song_artist>
+          <song_album>家課</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3780378</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>19691</song_artist_id>
+          <song_album_id>325600</song_album_id>
+          <song_song_idx>17</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>時代曲</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715517</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>50</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>藍月亮</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969743</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>每一個明天</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>天佑愛人</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>865628</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>5301</song_artist_id>
+          <song_album_id>47656</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>防不勝防</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715515</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>28</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>傷追人</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969747</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>11</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>姊妹 - Album Version</song_name>
+          <song_artist>楊千嬅 (Miriam Yeung)</song_artist>
+          <song_album>林夕字傳</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026645</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13430</song_artist_id>
+          <song_album_id>57520</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>相思無用</song_name>
+          <song_artist>鄭中基 (Ronald Cheng)</song_artist>
+          <song_album>金牌10年精選系列 - 鄭中基</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>5781447</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>459</song_artist_id>
+          <song_album_id>508197</song_album_id>
+          <song_song_idx>23</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我真的受傷了</song_name>
+          <song_artist>Jacky Cheung, Wan-Chih Wang</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969759</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>23</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>破曉 - 2011 Live in Hong Kong</song_name>
+          <song_artist>林憶蓮</song_artist>
+          <song_album>Sandy Lam Concert Mmxi</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3905518</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>332</song_artist_id>
+          <song_album_id>333229</song_album_id>
+          <song_song_idx>17</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>下次下次</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3830815</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>勞斯萊斯</song_name>
+          <song_artist>何韻詩 (HOCC)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715502</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>15</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>一生中最愛 - Live</song_name>
+          <song_artist>譚詠麟+李克勤 (Alan Tam+Hacken Lee)</song_artist>
+          <song_album>左麟右李演唱會2003</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>994211</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>12579</song_artist_id>
+          <song_album_id>55299</song_album_id>
+          <song_song_idx>19</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>明知做戲</song_name>
+          <song_artist>吳雨霏 (Kary Ng)</song_artist>
+          <song_album>金牌10年精選系列–吳雨霏</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6598621</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>21426</song_artist_id>
+          <song_album_id>623275</song_album_id>
+          <song_song_idx>14</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>My Love My Fate</song_name>
+          <song_artist>衛蘭 (Janice M. Vidal)</song_artist>
+          <song_album>Wish - 2010 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2062560</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>44103</song_artist_id>
+          <song_album_id>143994</song_album_id>
+          <song_song_idx>26</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>節外生枝 - Album Version</song_name>
+          <song_artist>謝安琪</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811255</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛的習慣</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596659</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>無言無語</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596686</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>10</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>今天應該很快樂</song_name>
+          <song_artist>周柏豪 (Pakho Chau)</song_artist>
+          <song_album>Imperfect Collection</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>7099318</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>46509</song_artist_id>
+          <song_album_id>465541</song_album_id>
+          <song_song_idx>18</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>灰飛煙滅</song_name>
+          <song_artist>許志安 (Andy Hui)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715516</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>48</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>男孩像你</song_name>
+          <song_artist>薛凱琪 (Fiona Sit)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3724979</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>14</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>她來聽我的演唱會</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969760</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>24</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>沙龍 - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722736</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>再見…露絲瑪莉</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3834476</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>26</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>苦瓜 - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722733</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>左右手 - Album Version</song_name>
+          <song_artist>李克勤 (Hacken Lee)</song_artist>
+          <song_album>林夕字傳</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026646</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13430</song_artist_id>
+          <song_album_id>57520</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>零度聖誕</song_name>
+          <song_artist>RubberBand</song_artist>
+          <song_album>Apollo 18</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1952319</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>29333</song_artist_id>
+          <song_album_id>134674</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>任我行</song_name>
+          <song_artist>陳奕迅 (Eason Chan)</song_artist>
+          <song_album>The Key</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>17236728</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>5301</song_artist_id>
+          <song_album_id>1534432</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>葡萄成熟時 - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722743</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>12</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>陀飛輪 - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722735</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>現代愛情故事</song_name>
+          <song_artist>張智霖 (Chilam Cheung), 許秋怡</song_artist>
+          <song_album>創意家族超白金精選壹</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2323816</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>297472</song_artist_id>
+          <song_album_id>166244</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>纏綿遊戲 - Album Version</song_name>
+          <song_artist>彭羚</song_artist>
+          <song_album>給我唱過的男孩們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026382</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1872</song_artist_id>
+          <song_album_id>57500</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>窮我一生</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>大時代</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2420890</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>155308</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>就是這麼愛你 - Album Version</song_name>
+          <song_artist>方力申</song_artist>
+          <song_album>方力申 新曲+精選</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>995897</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12617</song_artist_id>
+          <song_album_id>55387</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>藍鞋子</song_name>
+          <song_artist>鄧麗欣 (Stephy Tang)</song_artist>
+          <song_album>Music Cafe</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2012319</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>23233</song_artist_id>
+          <song_album_id>134752</song_album_id>
+          <song_song_idx>16</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>黑色幽默 - Album Version</song_name>
+          <song_artist>彭羚</song_artist>
+          <song_album>給我唱過的男孩們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026379</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1872</song_artist_id>
+          <song_album_id>57500</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>千千萬萬個我</song_name>
+          <song_artist>黃偉文 (Wyman Wong)</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3834478</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>31</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>浮誇 - Album Version</song_name>
+          <song_artist>陳奕迅</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722744</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>13</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>紀念日 - Album Version</song_name>
+          <song_artist>陳慧琳, Dry</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722758</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>27</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>聽海</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969741</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>不能哭了</song_name>
+          <song_artist>傅穎 (Theresa Fu)</song_artist>
+          <song_album>ALL ABOUT</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2277409</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>27987</song_artist_id>
+          <song_album_id>162121</song_album_id>
+          <song_song_idx>7</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>分手總要在雨天 - Album Version</song_name>
+          <song_artist>張學友</song_artist>
+          <song_album>真情流露-張學友</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>904048</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>10663</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>男人KTV</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596665</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛很簡單</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969750</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>14</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Dear Fiona</song_name>
+          <song_artist>薛凱琪 (Fiona Sit)</song_artist>
+          <song_album>Electric Angel  [2nd Version] - 2nd Version</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1962132</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>20323</song_artist_id>
+          <song_album_id>135498</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>想太多 - Album Version</song_name>
+          <song_artist>Mr.</song_artist>
+          <song_album>MISTER - Digital Only</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1734872</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>30965</song_artist_id>
+          <song_album_id>114959</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>大細心</song_name>
+          <song_artist>方力申</song_artist>
+          <song_album>在你遙遠的附近</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1356748</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>12617</song_artist_id>
+          <song_album_id>84600</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>今生不再 - Album Version</song_name>
+          <song_artist>彭羚</song_artist>
+          <song_album>給我唱過的男孩們</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1026377</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>1872</song_artist_id>
+          <song_album_id>57500</song_album_id>
+          <song_song_idx>3</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>追</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969755</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>19</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>這麼遠, 那麼近 - Album Version</song_name>
+          <song_artist>黃耀明</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722748</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>17</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>夠朋友</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>大時代</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2451912</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>155308</song_album_id>
+          <song_song_idx>5</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>一個人的童話 - Album Version</song_name>
+          <song_artist>楊千嬅</song_artist>
+          <song_album>Y100+ - Grateful版</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3811260</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>328937</song_album_id>
+          <song_song_idx>10</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>祝君好</song_name>
+          <song_artist>張智霖 (Chilam Cheung)</song_artist>
+          <song_album>我係外星人ChiLam in Concert 2011演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3623747</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>3354</song_artist_id>
+          <song_album_id>309243</song_album_id>
+          <song_song_idx>28</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>光榮之家</song_name>
+          <song_artist>何韻詩 (HOCC)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715525</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>38</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>情歌</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596668</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>4</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>鋼鐵是怎樣煉成的</song_name>
+          <song_artist>何韻詩 (HOCC)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715493</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>6</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>Simple Love Song</song_name>
+          <song_artist>RubberBand</song_artist>
+          <song_album>Connected</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2202815</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>29333</song_artist_id>
+          <song_album_id>153284</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>兩個女人</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596746</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>30</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>(一個人唱的) 合唱歌</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596710</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>18</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>祗想一生跟你走 - Album Version</song_name>
+          <song_artist>張學友</song_artist>
+          <song_album>張學友4合1珍藏集</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>904210</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>49722</song_album_id>
+          <song_song_idx>16</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>情永落</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596737</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>0</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>27</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛我別走</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969751</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>15</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>我有今日</song_name>
+          <song_artist>側田 (Justin Lo)</song_artist>
+          <song_album>金牌10年精選系列–側田</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>6596680</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>13755</song_artist_id>
+          <song_album_id>623131</song_album_id>
+          <song_song_idx>8</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>錢錢錢錢 - Live</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>Moments</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1549953</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>99234</song_album_id>
+          <song_song_idx>2</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>木紋</song_name>
+          <song_artist>何韻詩 (HOCC)</song_artist>
+          <song_album>Y100: 黃偉文大選 - Playful Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3715498</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>318767</song_album_id>
+          <song_song_idx>11</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>囍宴樂隊</song_name>
+          <song_artist>RubberBand</song_artist>
+          <song_album>Connected</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>2202817</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>29333</song_artist_id>
+          <song_album_id>153284</song_album_id>
+          <song_song_idx>10</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>芳華絕代 - Album Version</song_name>
+          <song_artist>張國榮, 梅艷芳</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722751</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>20</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>愛是永恆</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969761</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>25</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>這麼近(那麼遠) - Album Version</song_name>
+          <song_artist>張學友</song_artist>
+          <song_album>Y100: 黃偉文大選 - Evil Edition</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>3722761</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>200102</song_artist_id>
+          <song_album_id>319713</song_album_id>
+          <song_song_idx>30</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>勁歌．金曲2 - 情歌王 (Part 1)</song_name>
+          <song_artist>古巨基 (Leo Ku)</song_artist>
+          <song_album>勁歌．金曲2 - 情歌王 - Part 1</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>1603839</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>10</song_artist_id>
+          <song_album_id>103761</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>講妳知</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969758</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>22</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>情人</song_name>
+          <song_artist>Jacky Cheung</song_artist>
+          <song_album>活出生命 - Live演唱會</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>969756</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>127</song_artist_id>
+          <song_album_id>53346</song_album_id>
+          <song_song_idx>20</song_song_idx>
+        </song_data>
+        <song_data>
+          <song_name>陽光點的歌</song_name>
+          <song_artist>吳業坤 (Kwan Gor)</song_artist>
+          <song_album>陽光點的歌</song_album>
+          <song_genre>35</song_genre>
+          <song_preference>0</song_preference>
+          <song_playcnt>0</song_playcnt>
+          <song_pathname>82707988</song_pathname>
+          <song_type>1</song_type>
+          <song_lyricsexist>1</song_lyricsexist>
+          <song_artist_id>3303434</song_artist_id>
+          <song_album_id>8223938</song_album_id>
+          <song_song_idx>1</song_song_idx>
+        </song_data>
+      </playlist_data>
+    </playlist>
+    <package>
+      <ver>1.1</ver>
+      <descr>Describtion</descr>
+      <packdate>201811111228</packdate>
+      <playlistcnt>1</playlistcnt>
+      <songcnt>306</songcnt>
+    </package>
+  </kkbox_package>
+</utf-8_data>

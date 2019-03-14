@@ -2,7 +2,7 @@ var parseString = require('xml2js').parseString;
 var fs = require("fs");
 var Input = require('prompt-input');
 
-var filename = './歐美歌曲.kbl';
+var filename = './粵語歌曲.kbl';
 var array;
 
 function doitem(index){
